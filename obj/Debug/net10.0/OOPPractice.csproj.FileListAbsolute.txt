@@ -1,0 +1,14 @@
+E:\Playwright\OOPPractice\bin\Debug\net10.0\OOPPractice.exe
+E:\Playwright\OOPPractice\bin\Debug\net10.0\OOPPractice.deps.json
+E:\Playwright\OOPPractice\bin\Debug\net10.0\OOPPractice.runtimeconfig.json
+E:\Playwright\OOPPractice\bin\Debug\net10.0\OOPPractice.dll
+E:\Playwright\OOPPractice\bin\Debug\net10.0\OOPPractice.pdb
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.AssemblyInfoInputs.cache
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.AssemblyInfo.cs
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.csproj.CoreCompileInputs.cache
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.dll
+E:\Playwright\OOPPractice\obj\Debug\net10.0\refint\OOPPractice.dll
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.pdb
+E:\Playwright\OOPPractice\obj\Debug\net10.0\OOPPractice.genruntimeconfig.cache
+E:\Playwright\OOPPractice\obj\Debug\net10.0\ref\OOPPractice.dll
